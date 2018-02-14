@@ -1,7 +1,9 @@
-package com.example.stoneman.mycharacterstory;
+package com.example.stoneman.mycharacterstory.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.stoneman.mycharacterstory.R;
 
 public class MainActivity extends AppCompatActivity {
 

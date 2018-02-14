@@ -1,4 +1,4 @@
-package com.example.stoneman.mycharacterstory;
+package com.example.stoneman.mycharacterstory.View;
 
 import android.content.Context;
 import android.view.View;
