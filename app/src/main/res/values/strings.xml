@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyCharacterStory</string>
+    <string name="title_activity_character_management">CharacterManagementActivity</string>
+    <string name="title_activity_start">StartActivity</string>
 </resources>

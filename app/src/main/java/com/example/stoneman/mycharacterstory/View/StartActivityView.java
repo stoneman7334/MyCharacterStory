@@ -7,8 +7,8 @@ import android.view.View;
  * Created by Stoneman on 2018/02/14.
  */
 
-public class MainActivityView extends View {
-    public MainActivityView(Context context) {
+public class StartActivityView extends View {
+    public StartActivityView(Context context) {
         super(context);
     }
 }
